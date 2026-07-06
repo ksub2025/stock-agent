@@ -1,0 +1,8 @@
+{
+  "target_pct": 10,
+  "stretch_target_pct": 15,
+  "positions": [
+    {"ticker": "RELIANCE.NS", "name": "Reliance Industries", "qty": 5, "buy_price": 2900.00, "buy_date": "2026-07-01"},
+    {"ticker": "INFY.NS", "name": "Infosys", "qty": 10, "buy_price": 1550.00, "buy_date": "2026-07-01"}
+  ]
+}
